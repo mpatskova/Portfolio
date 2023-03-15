@@ -102,10 +102,9 @@ p {
     margin: 20px;
 }
 
-.fa-sharp fa-solid fa-circle-m {
+.logo {
     height: 80px;
     margin: 30px;
-    color: whitesmoke;
 }
 
 .sub-section {
@@ -208,4 +207,8 @@ a {
     .logo{
         display: none;
     }
+}
+
+#contact-me {
+    
 }
