@@ -20,10 +20,6 @@
   <body>
     <section class="hero">
       <nav>
-        <i
-          class="fa-sharp fa-solid fa-circle-m"
-          alt="Maryna Patskova's logo"
-        ></i>
         <ul id="nav-list">
           <li><a href="#about-me">About me</a></li>
           <li><a href="#projects">Projects</a></li>
@@ -137,7 +133,23 @@
 
     <footer id="contact-me">
       <h2>Contact me</h2>
-      <p>mpatskova@gmail.com</p>
+      <form action="https://formsubmit.co/mpatskova@email.com" method="POST">
+        <input type="message" name="_subject" value="Subject" />
+        <input type="email" name="email" placeholder="Email Address" required />
+        <input type="text" name="name" placeholder="Your Name" required />
+        <input
+          type="text"
+          name="message"
+          placeholder="Write Your Message Here..."
+          required
+        />
+        <input
+          type="hidden"
+          name="_next"
+          value="https://marynapatskova.com/thankyou.html"
+        />
+        <button type="submit">Send</button>
+      </form>
     </footer>
 
     <script src="src/app.js"></script>
