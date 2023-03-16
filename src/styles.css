@@ -14,11 +14,11 @@ section {
 }
 
 footer {
-    height: 700px;
     background-color: black;
     color: white; 
     text-align: center;
     padding: 80px;
+    height: 87vh;
 
 }
 
