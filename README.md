@@ -11,7 +11,7 @@ I am a skilled web developer with experience in a wide range of technologies and
 * JavaScript
 * ReactJS
 
-I am very passionate about web development and enjoy tackling complex challenges and learning new technologies.
+I am very passionate about web development and enjoy immensely tackling complex challenges and learning new technologies.
 
 ## Contact Information
 If you are interested in collaborating on a project or have any questions about my work, please feel free to contact me or connect with me on LinkedIn https://www.linkedin.com/in/maryna-p/
