@@ -134,15 +134,19 @@
     <footer id="contact-me">
       <h2>Contact me</h2>
       <form action="https://formsubmit.co/mpatskova@email.com" method="POST">
-        <input type="message" name="_subject" value="Subject" />
+        <label for="email">Subject:</label>
+        <input type="message" name="_subject" placeholder="Subject" required />
+        <label for="email">Email:</label>
         <input type="email" name="email" placeholder="Email Address" required />
+        <label for="email">Name:</label>
         <input type="text" name="name" placeholder="Your Name" required />
-        <input
-          type="text"
+        <label for="message">Message:</label>
+        <textarea
+          id="message"
           name="message"
           placeholder="Write Your Message Here..."
           required
-        />
+        ></textarea>
         <input
           type="hidden"
           name="_next"
