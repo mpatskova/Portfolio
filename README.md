@@ -1,5 +1,5 @@
 # My Website Portfolio
-Welcome to my website portfolio on GitHub! Here, you will find a collection of some of my recent web development projects and information about my skills and experience.
+Welcome friend to my website portfolio on GitHub! Here, you will find a collection of some of my recent web development projects and information about my skills and experience.
 
 ## Project Description
 My website portfolio is a showcase of my web development skills and experience. It features a collection of projects I have completed, including both personal and professional work. Each project includes a description of its purpose and a list of the technologies used.
