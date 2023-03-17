@@ -11,7 +11,7 @@ body {
 #gameboard {
     width: 300px; 
     height: 300px;
-    background-color: rgb(162, 82, 238);
+    background-color:white;
     display:flex;
     flex-wrap: wrap; 
     border: solid 1px black;
@@ -32,7 +32,7 @@ body {
     height: 90px;
     width: 90px;
     border-radius: 50%;
-    border: 15px solid rgb(223, 249, 77); 
+    border: 15px solid rgb(92, 65, 28); 
     box-sizing: border-box;
 
 }
@@ -47,7 +47,7 @@ body {
 .cross:before, .cross:after {
     content: "";
     position: absolute;
-    background-color: brown;
+    background-color: rgb(129, 33, 33);
 }
 
 .cross:before {
